@@ -1,0 +1,68 @@
+@font-face {
+	font-family: questrial;
+	src: url(./assets/font/Questrial-Regular.ttf);
+}
+
+body {
+	width: 100%;
+	background: radial-gradient(#FEFEFE, #DDDDDD);
+}
+
+.content {
+	margin-top: 10%;
+	width: 100%;
+}
+
+.title {
+	text-align: center;
+	font-family: questrial;
+	margin-bottom: 40px;
+	margin-top: 52px;
+	font-size: 72px;
+}
+
+.icon_container {
+	display: flex;
+	left:50%;
+	right:50%;
+	margin: auto;
+	width: 400px;
+	justify-content: space-around;
+	align-self: center;
+	margin-bottom: 80;
+}
+
+.icon {
+	width: 60px;
+	height: 60px;	
+}
+
+.icon:hover {
+	width: 62px;
+	height: 62px;
+}
+
+.eye_glasses {
+	display: flex;
+	left:50%;
+	right:50%;
+	margin: auto;
+	width: 400px;
+	justify-content: space-around;
+	align-self: center;
+}	
+
+.eye_glass {
+	width: 98px;
+	height: 41px;
+}
+
+.quote {
+	display: flex;
+	left:50%;
+	right:50%;
+	margin: auto;
+	width: 600px;
+	justify-content: space-around;
+	align-self: center;
+}
