@@ -16,7 +16,6 @@ body {
 .title {
 	text-align: center;
 	font-family: questrial;
-	margin-bottom: 40px;
 	margin-top: 52px;
 	font-size: 72px;
 }
@@ -65,4 +64,13 @@ body {
 	width: 600px;
 	justify-content: space-around;
 	align-self: center;
+}
+
+.intro {
+	text-align: center;
+	font-family: questrial;
+	margin-bottom: 40px;
+	margin-top: 20px;
+	font-size: 22px;
+	color: #5E5E5E;
 }
