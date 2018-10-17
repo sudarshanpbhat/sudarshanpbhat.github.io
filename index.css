@@ -52,8 +52,9 @@ body {
 }	
 
 .eye_glass {
-	width: 98px;
-	height: 41px;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
 }
 
 .quote {
